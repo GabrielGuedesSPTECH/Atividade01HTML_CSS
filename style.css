@@ -1,0 +1,30 @@
+.div_A {
+    background-color: #d82091;
+    height: 800px;
+    width: 800px;
+}
+
+.div_B {
+    background-color: #b652a9;
+    height: 70%;
+    width: 68%;
+}
+
+.p_C {
+    color: black;
+    background-color: yellow;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.div_D {
+    width: 60%;
+    height: 70vh;
+    background-color: rgb(144, 155, 161);
+}
+
+.div_E {
+    width: 80vw;
+    height: 30%;
+    background-color: rgb(88, 62, 79);
+}
